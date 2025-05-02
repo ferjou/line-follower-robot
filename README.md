@@ -1,4 +1,4 @@
- 🔧 **To run this project successfully, it is strongly recommended to use Webots version **2021**
+
 
 
 # 🤖 Line Follower Robot
